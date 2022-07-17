@@ -10,11 +10,11 @@ You can use different languages to implement this idea. However, I will consider
     <li>
       <a href="https://www.python.org/downloads/">Download</a> the right latest version of python for your OS
   </li>
-  <ul>
+  <li>
       Set the path to you python application as an envorinment variable.
-  </ul>
-  <ul>
+  </li>
+  <li>
       Open your terminal or cmd in windows to install libraries
-  </ul>
+  </li>
 </ul>
 
