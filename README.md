@@ -19,6 +19,9 @@ You can use different languages to implement this idea. However, I will consider
       Open your terminal or cmd in windows to install libraries
       <ul>
             <li>
+                You can install python libraries with <span style="color: red;">pip</span> or <span style="color: red;">conda</span>
+          </li>
+            <li>
                 pip install numpy
           </li>
           <li>
