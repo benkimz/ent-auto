@@ -17,6 +17,14 @@ You can use different languages to implement this idea. However, I will consider
   </li>
   <li>
       Open your terminal or cmd in windows to install libraries
+      <ul>
+            <li>
+                pip install numpy
+          </li>
+          <li>
+              conda install numpy
+          </li>
+      </ul>
   </li>
 </ul>
 
