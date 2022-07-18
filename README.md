@@ -21,11 +21,16 @@ You can use different languages to implement this idea. However, I will consider
             <li>
                 You can install python libraries with <u><b>pip</b></u> or <u><b>conda</b></u>
           </li>
-            <li>
-                pip install numpy
-          </li>
           <li>
-              conda install numpy
+                Example:
+              <ul>
+                   <li>
+                        pip install numpy
+                  </li>
+                  <li>
+                      conda install numpy
+                  </li>                  
+              </ul>
           </li>
       </ul>
   </li>
